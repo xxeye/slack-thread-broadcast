@@ -1,0 +1,9 @@
+{
+  "extName": { "message": "Thread Broadcast for Slack" },
+  "extDescription": { "message": "Checks \"Also send to channel\" when you reply in a Slack thread, and picks the current channel when you forward a message." },
+  "optAutoBroadcast": { "message": "Also send thread replies to the channel" },
+  "optAutoBroadcastHint": { "message": "Checks the box for you. Uncheck it to keep one reply in the thread only." },
+  "optForwardCurrent": { "message": "Forward to the current channel" },
+  "optForwardCurrentHint": { "message": "Picks the channel you're in when you forward a message. You can remove it." },
+  "popupNote": { "message": "Changes apply right away. Works in Slack in your browser. Just installed? Reload any Slack tab that was already open." }
+}

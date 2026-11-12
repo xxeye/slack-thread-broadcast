@@ -1,0 +1,9 @@
+{
+  "extName": { "message": "Thread Broadcast for Slack" },
+  "extDescription": { "message": "回覆 Slack 討論串時自動勾「也傳送到頻道」，轉寄訊息時自動選目前的頻道。" },
+  "optAutoBroadcast": { "message": "討論串回覆也傳送到頻道" },
+  "optAutoBroadcastHint": { "message": "自動幫你勾好。某則只想留在討論串，取消勾選就好。" },
+  "optForwardCurrent": { "message": "轉寄時選目前的頻道" },
+  "optForwardCurrentHint": { "message": "轉寄訊息時，收件對象自動選你所在的頻道，可以自己移除。" },
+  "popupNote": { "message": "改了馬上生效。適用瀏覽器版 Slack。剛安裝的話，已經開著的 Slack 分頁要重新整理一次。" }
+}
